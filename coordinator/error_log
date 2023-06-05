@@ -1,0 +1,26 @@
+[19-May-2023 21:10:35 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/ytoovumw/public_html/CMS/Components/upload.php on line 6
+[19-May-2023 21:10:35 UTC] PHP Warning:  imagecreatefromjpeg(): &quot;../uploads/profilecoordinator1.png&quot; is not a valid JPEG file in /home/ytoovumw/public_html/CMS/Components/upload.php on line 6
+[19-May-2023 21:10:35 UTC] PHP Fatal error:  Uncaught TypeError: imagesx(): Argument #1 ($image) must be of type GdImage, bool given in /home/ytoovumw/public_html/CMS/Components/upload.php:7
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Components/upload.php(7): imagesx()
+#1 /home/ytoovumw/public_html/CMS/Components/upload.php(94): crop_image()
+#2 /home/ytoovumw/public_html/CMS/coordinator/includes/Header.php(29): require('/home/ytoovumw/...')
+#3 /home/ytoovumw/public_html/CMS/coordinator/Profile.php(2): require('/home/ytoovumw/...')
+#4 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Components/upload.php on line 7
+[19-May-2023 21:11:29 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/ytoovumw/public_html/CMS/Components/upload.php on line 6
+[19-May-2023 21:11:29 UTC] PHP Warning:  imagecreatefromjpeg(): &quot;../uploads/profilecoordinator1.png&quot; is not a valid JPEG file in /home/ytoovumw/public_html/CMS/Components/upload.php on line 6
+[19-May-2023 21:11:29 UTC] PHP Fatal error:  Uncaught TypeError: imagesx(): Argument #1 ($image) must be of type GdImage, bool given in /home/ytoovumw/public_html/CMS/Components/upload.php:7
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Components/upload.php(7): imagesx()
+#1 /home/ytoovumw/public_html/CMS/Components/upload.php(94): crop_image()
+#2 /home/ytoovumw/public_html/CMS/coordinator/includes/Header.php(29): require('/home/ytoovumw/...')
+#3 /home/ytoovumw/public_html/CMS/coordinator/Profile.php(2): require('/home/ytoovumw/...')
+#4 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Components/upload.php on line 7
+[20-May-2023 01:33:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'term' doesn't have a default value in /home/ytoovumw/public_html/CMS/coordinator/Modals/Add/AddStudentModal.php:65
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/coordinator/Modals/Add/AddStudentModal.php(65): mysqli->query()
+#1 /home/ytoovumw/public_html/CMS/coordinator/studentManage.php(12): require('/home/ytoovumw/...')
+#2 {main}
+  thrown in /home/ytoovumw/public_html/CMS/coordinator/Modals/Add/AddStudentModal.php on line 65

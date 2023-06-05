@@ -1,0 +1,150 @@
+[28-Apr-2023 11:11:27 UTC] PHP Warning:  Undefined array key "user" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 23
+[28-Apr-2023 11:11:27 UTC] PHP Warning:  Undefined array key "school_id" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 24
+[28-Apr-2023 11:11:27 UTC] PHP Warning:  Undefined array key "first_name" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 25
+[28-Apr-2023 11:11:27 UTC] PHP Warning:  Undefined array key "last_name" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 26
+[28-Apr-2023 11:11:27 UTC] PHP Warning:  Undefined array key "role" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 27
+[28-Apr-2023 11:11:27 UTC] PHP Warning:  Undefined array key "email" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 28
+[28-Apr-2023 11:11:27 UTC] PHP Warning:  Undefined array key "phone" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 29
+[28-Apr-2023 11:19:32 UTC] PHP Warning:  Undefined array key "user" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 23
+[28-Apr-2023 11:19:32 UTC] PHP Warning:  Undefined array key "school_id" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 24
+[28-Apr-2023 11:19:32 UTC] PHP Warning:  Undefined array key "first_name" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 25
+[28-Apr-2023 11:19:32 UTC] PHP Warning:  Undefined array key "last_name" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 26
+[28-Apr-2023 11:19:32 UTC] PHP Warning:  Undefined array key "role" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 27
+[28-Apr-2023 11:19:32 UTC] PHP Warning:  Undefined array key "email" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 28
+[28-Apr-2023 11:19:32 UTC] PHP Warning:  Undefined array key "phone" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 29
+[06-May-2023 05:13:33 UTC] PHP Warning:  Undefined array key "user" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 23
+[06-May-2023 05:13:33 UTC] PHP Warning:  Undefined array key "school_id" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 24
+[06-May-2023 05:13:33 UTC] PHP Warning:  Undefined array key "first_name" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 25
+[06-May-2023 05:13:33 UTC] PHP Warning:  Undefined array key "last_name" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 26
+[06-May-2023 05:13:33 UTC] PHP Warning:  Undefined array key "role" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 27
+[06-May-2023 05:13:33 UTC] PHP Warning:  Undefined array key "email" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 28
+[06-May-2023 05:13:33 UTC] PHP Warning:  Undefined array key "phone" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 29
+[06-May-2023 05:14:33 UTC] PHP Warning:  Undefined array key "user" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 23
+[06-May-2023 05:14:33 UTC] PHP Warning:  Undefined array key "school_id" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 24
+[06-May-2023 05:14:33 UTC] PHP Warning:  Undefined array key "first_name" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 25
+[06-May-2023 05:14:33 UTC] PHP Warning:  Undefined array key "last_name" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 26
+[06-May-2023 05:14:33 UTC] PHP Warning:  Undefined array key "role" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 27
+[06-May-2023 05:14:33 UTC] PHP Warning:  Undefined array key "email" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 28
+[06-May-2023 05:14:33 UTC] PHP Warning:  Undefined array key "phone" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 29
+[06-May-2023 05:15:35 UTC] PHP Warning:  Undefined array key "user" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 23
+[06-May-2023 05:15:35 UTC] PHP Warning:  Undefined array key "school_id" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 24
+[06-May-2023 05:15:35 UTC] PHP Warning:  Undefined array key "first_name" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 25
+[06-May-2023 05:15:35 UTC] PHP Warning:  Undefined array key "last_name" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 26
+[06-May-2023 05:15:35 UTC] PHP Warning:  Undefined array key "role" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 27
+[06-May-2023 05:15:35 UTC] PHP Warning:  Undefined array key "email" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 28
+[06-May-2023 05:15:35 UTC] PHP Warning:  Undefined array key "phone" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 29
+[06-May-2023 05:16:36 UTC] PHP Warning:  Undefined array key "user" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 23
+[06-May-2023 05:16:36 UTC] PHP Warning:  Undefined array key "school_id" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 24
+[06-May-2023 05:16:36 UTC] PHP Warning:  Undefined array key "first_name" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 25
+[06-May-2023 05:16:36 UTC] PHP Warning:  Undefined array key "last_name" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 26
+[06-May-2023 05:16:36 UTC] PHP Warning:  Undefined array key "role" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 27
+[06-May-2023 05:16:36 UTC] PHP Warning:  Undefined array key "email" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 28
+[06-May-2023 05:16:36 UTC] PHP Warning:  Undefined array key "phone" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 29
+[06-May-2023 05:17:36 UTC] PHP Warning:  Undefined array key "user" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 23
+[06-May-2023 05:17:36 UTC] PHP Warning:  Undefined array key "school_id" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 24
+[06-May-2023 05:17:36 UTC] PHP Warning:  Undefined array key "first_name" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 25
+[06-May-2023 05:17:36 UTC] PHP Warning:  Undefined array key "last_name" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 26
+[06-May-2023 05:17:36 UTC] PHP Warning:  Undefined array key "role" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 27
+[06-May-2023 05:17:36 UTC] PHP Warning:  Undefined array key "email" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 28
+[06-May-2023 05:17:36 UTC] PHP Warning:  Undefined array key "phone" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 29
+[23-May-2023 15:58:10 UTC] PHP Warning:  Undefined array key "user" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 23
+[23-May-2023 15:58:10 UTC] PHP Warning:  Undefined array key "school_id" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 24
+[23-May-2023 15:58:10 UTC] PHP Warning:  Undefined array key "first_name" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 25
+[23-May-2023 15:58:10 UTC] PHP Warning:  Undefined array key "last_name" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 26
+[23-May-2023 15:58:10 UTC] PHP Warning:  Undefined array key "role" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 27
+[23-May-2023 15:58:10 UTC] PHP Warning:  Undefined array key "email" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 28
+[23-May-2023 15:58:10 UTC] PHP Warning:  Undefined array key "phone" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 29
+[24-May-2023 02:09:47 UTC] PHP Warning:  Undefined array key "user" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 23
+[24-May-2023 02:09:47 UTC] PHP Warning:  Undefined array key "school_id" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 24
+[24-May-2023 02:09:47 UTC] PHP Warning:  Undefined array key "first_name" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 25
+[24-May-2023 02:09:47 UTC] PHP Warning:  Undefined array key "last_name" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 26
+[24-May-2023 02:09:47 UTC] PHP Warning:  Undefined array key "role" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 27
+[24-May-2023 02:09:47 UTC] PHP Warning:  Undefined array key "email" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 28
+[24-May-2023 02:09:47 UTC] PHP Warning:  Undefined array key "phone" in /home/ytoovumw/public_html/CMS/instructor/includes/Header.php on line 29
+[26-May-2023 01:40:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ytoovumw_bscs3a.cms_instructors_topics_Quizzes' doesn't exist in /home/ytoovumw/public_html/CMS/instructor/viewTopic.php:157
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/instructor/viewTopic.php(157): mysqli->query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/instructor/viewTopic.php on line 157
+[26-May-2023 01:41:15 UTC] PHP Warning:  move_uploaded_file(../uploads/instructor_materials/material_64700e3befd9f_FINAL OUTPUT.pdf): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/CMS/instructor/Modals/Add/MaterialModal.php on line 62
+[26-May-2023 01:41:15 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpXxOnQF' to '../uploads/instructor_materials/material_64700e3befd9f_FINAL OUTPUT.pdf' in /home/ytoovumw/public_html/CMS/instructor/Modals/Add/MaterialModal.php on line 62
+[26-May-2023 01:41:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ytoovumw_bscs3a.cms_instructors_topics_Quizzes' doesn't exist in /home/ytoovumw/public_html/CMS/instructor/viewTopic.php:157
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/instructor/viewTopic.php(157): mysqli->query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/instructor/viewTopic.php on line 157
+[26-May-2023 01:41:34 UTC] PHP Warning:  move_uploaded_file(../uploads/instructor_materials/material_64700e4e03fc1_FINAL OUTPUT.pdf): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/CMS/instructor/Modals/Add/MaterialModal.php on line 62
+[26-May-2023 01:41:34 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phparrXBf' to '../uploads/instructor_materials/material_64700e4e03fc1_FINAL OUTPUT.pdf' in /home/ytoovumw/public_html/CMS/instructor/Modals/Add/MaterialModal.php on line 62
+[26-May-2023 01:41:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ytoovumw_bscs3a.cms_instructors_topics_Quizzes' doesn't exist in /home/ytoovumw/public_html/CMS/instructor/viewTopic.php:157
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/instructor/viewTopic.php(157): mysqli->query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/instructor/viewTopic.php on line 157
+[26-May-2023 01:42:22 UTC] PHP Warning:  move_uploaded_file(../uploads/instructor_assignments/assignment_64700e7e0617d_FINAL OUTPUT.pdf): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/CMS/instructor/Modals/Add/AssignmentModal.php on line 92
+[26-May-2023 01:42:22 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpVPzwl1' to '../uploads/instructor_assignments/assignment_64700e7e0617d_FINAL OUTPUT.pdf' in /home/ytoovumw/public_html/CMS/instructor/Modals/Add/AssignmentModal.php on line 92
+[26-May-2023 01:42:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ytoovumw_bscs3a.cms_instructors_topics_Quizzes' doesn't exist in /home/ytoovumw/public_html/CMS/instructor/viewTopic.php:157
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/instructor/viewTopic.php(157): mysqli->query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/instructor/viewTopic.php on line 157
+[26-May-2023 02:10:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ytoovumw_bscs3a.cms_instructors_topics_Quizzes' doesn't exist in /home/ytoovumw/public_html/CMS/instructor/viewTopic.php:157
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/instructor/viewTopic.php(157): mysqli->query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/instructor/viewTopic.php on line 157
+[26-May-2023 02:10:48 UTC] PHP Warning:  move_uploaded_file(../uploads/instructor_materials/material_64701528de315_MonkeyLuffy.jpg): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/CMS/instructor/Modals/Add/MaterialModal.php on line 62
+[26-May-2023 02:10:48 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php3QtHc8' to '../uploads/instructor_materials/material_64701528de315_MonkeyLuffy.jpg' in /home/ytoovumw/public_html/CMS/instructor/Modals/Add/MaterialModal.php on line 62
+[26-May-2023 02:10:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ytoovumw_bscs3a.cms_instructors_topics_Quizzes' doesn't exist in /home/ytoovumw/public_html/CMS/instructor/viewTopic.php:157
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/instructor/viewTopic.php(157): mysqli->query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/instructor/viewTopic.php on line 157
+[26-May-2023 02:43:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ytoovumw_bscs3a.cms_instructors_topics_Quizzes' doesn't exist in /home/ytoovumw/public_html/CMS/instructor/viewTopic.php:157
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/instructor/viewTopic.php(157): mysqli->query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/instructor/viewTopic.php on line 157
+[26-May-2023 02:43:42 UTC] PHP Warning:  move_uploaded_file(../uploads/instructor_materials/material_64701cde692cc_MonkeyLuffy.jpg): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/CMS/instructor/Modals/Add/MaterialModal.php on line 62
+[26-May-2023 02:43:42 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpnJexxw' to '../uploads/instructor_materials/material_64701cde692cc_MonkeyLuffy.jpg' in /home/ytoovumw/public_html/CMS/instructor/Modals/Add/MaterialModal.php on line 62
+[26-May-2023 02:43:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ytoovumw_bscs3a.cms_instructors_topics_Quizzes' doesn't exist in /home/ytoovumw/public_html/CMS/instructor/viewTopic.php:157
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/instructor/viewTopic.php(157): mysqli->query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/instructor/viewTopic.php on line 157
+[26-May-2023 03:03:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ytoovumw_bscs3a.cms_instructors_topics_Quizzes' doesn't exist in /home/ytoovumw/public_html/CMS/instructor/viewTopic.php:157
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/instructor/viewTopic.php(157): mysqli->query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/instructor/viewTopic.php on line 157
+[26-May-2023 03:03:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ytoovumw_bscs3a.cms_instructors_topics_Quizzes' doesn't exist in /home/ytoovumw/public_html/CMS/instructor/viewTopic.php:157
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/instructor/viewTopic.php(157): mysqli->query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/instructor/viewTopic.php on line 157
+[26-May-2023 03:03:48 UTC] PHP Warning:  move_uploaded_file(../uploads/instructor_materials/material_64702194d477a_MonkeyLuffy.jpg): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/CMS/instructor/Modals/Add/MaterialModal.php on line 62
+[26-May-2023 03:03:48 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php2VffOF' to '../uploads/instructor_materials/material_64702194d477a_MonkeyLuffy.jpg' in /home/ytoovumw/public_html/CMS/instructor/Modals/Add/MaterialModal.php on line 62
+[26-May-2023 03:03:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ytoovumw_bscs3a.cms_instructors_topics_Quizzes' doesn't exist in /home/ytoovumw/public_html/CMS/instructor/viewTopic.php:157
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/instructor/viewTopic.php(157): mysqli->query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/instructor/viewTopic.php on line 157
+[26-May-2023 05:28:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ytoovumw_bscs3a.cms_instructors_topics_Quizzes' doesn't exist in /home/ytoovumw/public_html/CMS/instructor/viewTopic.php:157
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/instructor/viewTopic.php(157): mysqli->query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/instructor/viewTopic.php on line 157
+[26-May-2023 06:08:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ytoovumw_bscs3a.cms_instructors_topics_Quizzes' doesn't exist in /home/ytoovumw/public_html/CMS/instructor/viewTopic.php:157
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/instructor/viewTopic.php(157): mysqli->query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/instructor/viewTopic.php on line 157
+[26-May-2023 08:11:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ytoovumw_bscs3a.cms_instructors_topics_Quizzes' doesn't exist in /home/ytoovumw/public_html/CMS/instructor/viewTopic.php:157
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/instructor/viewTopic.php(157): mysqli->query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/instructor/viewTopic.php on line 157
+[26-May-2023 08:37:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ytoovumw_bscs3a.cms_instructors_topics_Quizzes' doesn't exist in /home/ytoovumw/public_html/CMS/instructor/viewTopic.php:157
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/instructor/viewTopic.php(157): mysqli->query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/instructor/viewTopic.php on line 157

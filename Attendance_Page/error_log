@@ -1,0 +1,1142 @@
+[24-May-2023 09:56:40 UTC] PHP Warning:  Undefined array key "UIDresult" in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_receiver.php on line 2
+[24-May-2023 09:57:49 UTC] PHP Warning:  Undefined array key "UIDresult" in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_receiver.php on line 2
+[24-May-2023 09:57:51 UTC] PHP Warning:  Undefined array key "UIDresult" in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_receiver.php on line 2
+[24-May-2023 09:57:52 UTC] PHP Warning:  Undefined array key "UIDresult" in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_receiver.php on line 2
+[24-May-2023 09:57:53 UTC] PHP Warning:  Undefined array key "UIDresult" in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_receiver.php on line 2
+[24-May-2023 09:57:56 UTC] PHP Warning:  Undefined array key "UIDresult" in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_receiver.php on line 2
+[24-May-2023 09:58:31 UTC] PHP Warning:  Undefined array key "UIDresult" in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_receiver.php on line 2
+[24-May-2023 17:59:48 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 17:59:51 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 17:59:54 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 17:59:55 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 17:59:55 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 17:59:58 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:00:01 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:00:04 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:00:05 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:00:08 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:00:12 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:00:16 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:00:20 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:00:24 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:00:28 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:00:32 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:00:36 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:00:40 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:00:44 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:00:47 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:00:50 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:00:54 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:00:58 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:01:02 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:01:06 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:01:10 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:01:14 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:01:18 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:01:22 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:01:26 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:01:30 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:01:34 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:01:38 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:01:42 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:01:46 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:01:50 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:01:54 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:01:58 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:02:02 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:02:06 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:02:10 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:02:14 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:02:18 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:02:22 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:02:26 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:02:30 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:02:34 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:02:38 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:02:42 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:02:46 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:02:50 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:02:54 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:02:58 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:03:02 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:03:03 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:03:06 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:03:09 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:03:12 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:03:15 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:03:18 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:03:22 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:03:26 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:03:30 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:03:34 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:03:38 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:03:42 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:03:45 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:03:48 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:03:51 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:03:54 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:03:57 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:04:01 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:04:05 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:04:09 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:04:13 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:04:17 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:04:21 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:04:25 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:04:29 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:04:33 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:04:37 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:04:41 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:04:45 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:04:49 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:04:53 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:04:57 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:05:01 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:05:05 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:05:09 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:05:13 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:05:17 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:05:21 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:05:25 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:05:29 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:05:33 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:05:37 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:05:41 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:05:45 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:05:49 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:05:53 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:05:57 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:06:01 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:06:05 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:06:09 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:06:13 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:06:17 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:06:21 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:06:25 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:06:29 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:06:33 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:06:37 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:06:41 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:06:45 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:06:49 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:06:53 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:06:57 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:07:01 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:07:05 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:07:09 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:07:13 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:07:17 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:07:21 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:07:25 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:07:29 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:07:33 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:07:37 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:07:41 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:07:45 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:07:49 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:07:53 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:07:57 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:08:01 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:08:05 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:08:09 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:08:13 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:08:17 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:08:21 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:08:25 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:08:29 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:08:33 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:08:37 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:08:41 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:08:45 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:08:49 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:08:53 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:08:57 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:09:01 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:09:05 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:09:09 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:09:13 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:09:17 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:09:21 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:09:25 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:09:29 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:09:33 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:09:37 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:09:41 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:09:45 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:09:49 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:09:53 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:09:57 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:10:01 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:10:05 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:10:09 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:10:13 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:10:17 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:10:21 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:10:25 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:10:29 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:10:33 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:10:36 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:10:40 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:10:40 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:10:43 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:10:46 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:10:49 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:10:54 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:10:56 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:11:00 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:11:04 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:11:08 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:11:12 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:11:16 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:11:20 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:11:24 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:11:28 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:11:32 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:11:36 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:11:40 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:11:44 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:11:48 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:11:52 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:11:55 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:11:56 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:11:59 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:12:02 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:12:05 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:12:08 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:12:11 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:12:15 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:12:18 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:12:21 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:12:24 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:12:28 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:12:32 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:12:36 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:12:40 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:12:44 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:12:48 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:12:52 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:12:56 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:13:00 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:13:04 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:13:08 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:13:12 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:13:16 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:13:20 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:13:24 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:13:28 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:13:32 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:13:36 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:13:40 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:13:44 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:13:48 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:13:52 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[24-May-2023 18:13:56 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 9
+[26-May-2023 17:33:12 Asia/Manila] PHP Warning:  Undefined array key "rfid" in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 16
+[26-May-2023 17:33:17 Asia/Manila] PHP Warning:  Undefined array key "rfid" in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 16
+[26-May-2023 17:33:18 Asia/Manila] PHP Warning:  Undefined array key "rfid" in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 16
+[26-May-2023 17:33:23 Asia/Manila] PHP Warning:  Undefined array key "rfid" in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 16
+[26-May-2023 17:33:37 Asia/Manila] PHP Warning:  Undefined array key "rfid" in /home/ytoovumw/public_html/CMS/Attendance_Page/rfid_attendance.php on line 16

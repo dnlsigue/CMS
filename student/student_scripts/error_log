@@ -1,0 +1,152 @@
+[24-May-2023 16:48:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php(8): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php on line 8
+[24-May-2023 16:48:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php(8): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php on line 8
+[24-May-2023 16:51:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ytoovumw_bscs3a.cms_sectionlist' doesn't exist in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php:26
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php(26): mysqli->query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php on line 26
+[24-May-2023 16:51:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ytoovumw_bscs3a.cms_sectionlist' doesn't exist in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php:26
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php(26): mysqli->query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php on line 26
+[24-May-2023 16:52:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ytoovumw_bscs3a.cms_sectionlist' doesn't exist in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php:26
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php(26): mysqli->query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php on line 26
+[24-May-2023 16:54:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ytoovumw_bscs3a.cms_sectionlist' doesn't exist in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php:26
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php(26): mysqli->query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php on line 26
+[24-May-2023 17:00:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ytoovumw_bscs3a.cms_sectionlist' doesn't exist in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php:26
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php(26): mysqli->query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php on line 26
+[24-May-2023 17:02:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ytoovumw_bscs3a.cms_sectionlist' doesn't exist in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php:26
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php(26): mysqli->query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php on line 26
+[24-May-2023 17:04:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ytoovumw_bscs3a.cms_sectionlist' doesn't exist in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php:26
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php(26): mysqli->query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php on line 26
+[24-May-2023 17:08:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ytoovumw_bscs3a.cms_sectionlist' doesn't exist in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php:26
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php(26): mysqli->query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php on line 26
+[24-May-2023 17:12:47 UTC] PHP Warning:  Undefined array key "school_id" in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php on line 16
+[24-May-2023 17:12:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ytoovumw_bscs3a.cms_sectionlist' doesn't exist in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php:26
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php(26): mysqli->query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php on line 26
+[24-May-2023 17:15:01 UTC] PHP Warning:  Undefined array key "school_id" in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php on line 16
+[24-May-2023 17:15:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ytoovumw_bscs3a.cms_sectionlist' doesn't exist in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php:26
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php(26): mysqli->query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php on line 26
+[24-May-2023 17:17:17 UTC] PHP Warning:  Undefined array key "school_id" in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php on line 16
+[24-May-2023 17:17:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ytoovumw_bscs3a.cms_sectionlist' doesn't exist in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php:26
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php(26): mysqli->query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php on line 26
+[24-May-2023 17:17:21 UTC] PHP Warning:  Undefined array key "school_id" in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php on line 18
+[24-May-2023 17:17:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ytoovumw_bscs3a.cms_sectionlist' doesn't exist in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php:28
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php(28): mysqli->query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php on line 28
+[24-May-2023 17:17:22 UTC] PHP Warning:  Undefined array key "school_id" in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php on line 18
+[24-May-2023 17:17:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ytoovumw_bscs3a.cms_sectionlist' doesn't exist in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php:28
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php(28): mysqli->query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php on line 28
+[24-May-2023 17:17:22 UTC] PHP Warning:  Undefined array key "school_id" in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php on line 18
+[24-May-2023 17:17:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ytoovumw_bscs3a.cms_sectionlist' doesn't exist in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php:28
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php(28): mysqli->query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php on line 28
+[24-May-2023 17:17:23 UTC] PHP Warning:  Undefined array key "school_id" in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php on line 18
+[24-May-2023 17:17:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ytoovumw_bscs3a.cms_sectionlist' doesn't exist in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php:28
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php(28): mysqli->query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php on line 28
+[24-May-2023 17:17:43 UTC] PHP Warning:  Undefined array key "school_id" in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php on line 18
+[24-May-2023 17:17:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ytoovumw_bscs3a.cms_sectionlist' doesn't exist in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php:28
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php(28): mysqli->query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php on line 28
+[24-May-2023 17:19:28 UTC] PHP Warning:  Undefined array key "school_id" in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php on line 18
+[24-May-2023 17:19:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ytoovumw_bscs3a.cms_sectionlist' doesn't exist in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php:28
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php(28): mysqli->query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php on line 28
+[24-May-2023 17:19:29 UTC] PHP Warning:  Undefined array key "school_id" in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php on line 18
+[24-May-2023 17:19:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ytoovumw_bscs3a.cms_sectionlist' doesn't exist in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php:28
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php(28): mysqli->query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php on line 28
+[24-May-2023 17:19:31 UTC] PHP Warning:  Undefined array key "school_id" in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php on line 18
+[24-May-2023 17:19:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ytoovumw_bscs3a.cms_sectionlist' doesn't exist in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php:28
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php(28): mysqli->query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php on line 28
+[24-May-2023 17:19:35 UTC] PHP Warning:  Undefined array key "school_id" in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php on line 18
+[24-May-2023 17:19:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ytoovumw_bscs3a.cms_sectionlist' doesn't exist in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php:28
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php(28): mysqli->query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php on line 28
+[24-May-2023 17:19:36 UTC] PHP Warning:  Undefined array key "school_id" in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php on line 18
+[24-May-2023 17:19:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ytoovumw_bscs3a.cms_sectionlist' doesn't exist in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php:28
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php(28): mysqli->query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php on line 28
+[24-May-2023 17:19:36 UTC] PHP Warning:  Undefined array key "school_id" in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php on line 18
+[24-May-2023 17:19:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ytoovumw_bscs3a.cms_sectionlist' doesn't exist in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php:28
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php(28): mysqli->query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php on line 28
+[24-May-2023 17:19:36 UTC] PHP Warning:  Undefined array key "school_id" in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php on line 18
+[24-May-2023 17:19:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ytoovumw_bscs3a.cms_sectionlist' doesn't exist in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php:28
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php(28): mysqli->query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php on line 28
+[24-May-2023 17:20:52 UTC] PHP Warning:  Undefined array key "school_id" in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php on line 18
+[24-May-2023 17:20:58 UTC] PHP Warning:  Undefined array key "school_id" in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php on line 18
+[25-May-2023 23:12:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php(8): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php on line 8
+[26-May-2023 02:44:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php(8): mysqli->__construct()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/CMS/student/student_scripts/get_subject_schedule.php on line 8

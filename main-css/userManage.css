@@ -1,0 +1,16 @@
+.x--main-container{
+    margin: auto;
+}
+
+.modal-container {
+    padding: 5rem;
+}
+
+.btn-success {
+    align-items: center;
+    justify-content: center;
+}
+
+.input-group {
+    margin-bottom: 1rem;
+}

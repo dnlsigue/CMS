@@ -1,0 +1,311 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  background: url(../uploads/ucc-bg.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100vh;
+  overflow-x: hidden;
+}
+
+.x--wrapper .x--header {
+  z-index: 1;
+  background: #22242a;
+  position: fixed;
+  width: calc(100% - 0%);
+  height: 70px;
+  display: flex;
+  top: 0;
+}
+
+.x--wrapper .x--header .x--header-menu {
+  width: calc(100% - 0%);
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+}
+
+.x--wrapper .x--header .x--header-menu .x--title {
+  color: #fbf3ff;
+  font-size: 20px;
+  text-transform: uppercase;
+  font-weight: 900;
+  text-align: center;
+}
+
+.x--wrapper .x--header .x--header-menu .x--title span {
+  color: #ff7100;
+}
+
+.x--wrapper .x--header .x--header-menu .x--sidebar-btn {
+  color: #fbf3ff;
+  padding-left: 0px;
+  padding-top: 3;
+  position: absolute;
+  margin-left: 180px;
+  font-size: 22px;
+  font-weight: 900;
+  cursor: pointer;
+  transition: 1s;
+  transition-property: color;
+}
+
+.x--wrapper .x--header .x--header-menu .x--sidebar-btn:hover {
+  color: #ff7100;
+}
+
+.x--wrapper .x--header .x--header-menu ul {
+  display: flex;
+  padding-top: 15px;
+}
+
+.x--wrapper .x--header .x--header-menu ul li a {
+  background: #fbf3ff;
+  color: #000;
+  display: block;
+  margin: 0 20px;
+  font-size: 18px;
+  width: 34px;
+  height: 34px;
+  line-height: 35px;
+  text-align: center;
+  border-radius: 50%;
+  transition: 1s;
+  transition-property: background, color;
+}
+
+.x--wrapper .x--header .x--header-menu ul li a:hover {
+  background: #ff7100;
+  color: #fbf3ff;
+}
+
+/*  */
+
+.x--wrapper .x--sidebar .x--sidebar-menu {
+  overflow: hidden;
+}
+.x--wrapper.x--collapse .x--sidebar .x--sidebar-menu .x--item {
+  width: 250px;
+  overflow: hidden;
+}
+.x--wrapper .x--sidebar {
+  z-index: 1;
+  background: #2f323a;
+  position: fixed;
+  top: 70px;
+  width: 65px;
+  height: calc(100%);
+  transition: 1s;
+  transition-property: width;
+  overflow-y: hidden;
+}
+.x--wrapper.x--collapse .x--sidebar {
+  width: 250px;
+  z-index: 1;
+  background: #2f323a;
+  position: fixed;
+  top: 70px;
+  height: calc(100%);
+  transition: 1s;
+  transition-property: width;
+  overflow-y: hidden;
+}
+
+/*  */
+
+.x--wrapper .x--sidebar .x--sidebar-menu .x--profile img {
+  display: none;
+}
+
+.x--wrapper .x--sidebar .x--sidebar-menu .x--profile p {
+  display: none;
+}
+.x--wrapper.x--collapse .x--sidebar .x--profile img {
+  margin: 15px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  display: block; 
+}
+.x--wrapper.x--collapse .x--sidebar .x--profile p {
+  color: #fbf3ff;
+  font-weight: 900;
+  margin-bottom: 10px;
+  display: block;
+}
+
+.x--wrapper .x--sidebar .x--sidebar-menu .x--item {
+  width: 250px;
+  overflow: hidden;
+}
+
+.x--wrapper .x--sidebar .x--sidebar-menu .x--item .x--menu-btn {
+  display: block;
+}
+.x--wrapper .x--sidebar a span {
+  display: none;
+}
+.x--wrapper.x--collapse .x--sidebar a span {
+  display: contents;
+}
+/*  */
+
+.x--wrapper.x--collapse .x--sidebar .x--sidebar-menu .x--item .x--menu-btn {
+  font-size: 18px;
+  display: inline-block;
+  color: #fbf3ff;
+  position: relative;
+  padding: 25px 20px;
+  transition: 1s;
+  transition-property: color;
+  text-decoration: none;
+  align-items: center;
+}
+.x--wrapper .x--sidebar .x--sidebar-menu .x--item .x--menu-btn {
+  display: inline-block;
+  color: #fbf3ff;
+  position: relative;
+  padding: 25px 25px;
+  transition: 1s;
+  transition-property: color;
+  text-decoration: none;
+  align-items: center;
+}
+
+.x--wrapper .x--sidebar .x--sidebar-menu .x--item .x--menu-btn:hover {
+  color: #ff7100;
+}
+
+.x--wrapper.x--collapse .x--sidebar .x--sidebar-menu .x--item .x--menu-btn i {
+  margin-right: 20px;
+}
+.x--wrapper.x--collapse
+  .x--sidebar
+  .x--sidebar-menu
+  .x--item
+  .x--menu-btn
+  .x--drop-down {
+  float: right;
+  font-size: 12px;
+  margin-top: 3px;
+}
+
+/*  */
+
+.x--wrapper.x--collapse .x--sidebar .x--sidebar-menu .x--item .x--sub-menu i {
+  font-size: 18px;
+  padding-left: 3px;
+}
+.x--wrapper .x--sidebar .x--sidebar-menu .x--item .x--sub-menu {
+  font-size: 18px;
+  padding-left: 3px;
+  background: #3498db;
+  overflow: hidden;
+  max-height: 0;
+  transition-property: background, max-height;
+}
+
+.x--wrapper.x--collapse .x--sidebar .x--sidebar-menu .x--item .x--sub-menu a {
+  display: block;
+  position: relative;
+  color: #fbf3ff;
+  background-color: #2f323a;
+  white-space: nowrap;
+  font-size: 15px;
+  padding: 20px;
+  transition: 1s;
+  transition-property: background;
+}
+.x--wrapper .x--sidebar .x--sidebar-menu .x--item .x--sub-menu a {
+  display: block;
+  position: relative;
+  color: #fbf3ff;
+  background-color: #2f323a;
+  white-space: nowrap;
+  font-size: 15px;
+  padding: 20px;
+  transition: 0.5s;
+  transition-property: background;
+}
+
+.x--wrapper .x--sidebar .x--sidebar-menu .x--item .x--sub-menu a:hover {
+  background: #ff7100;
+}
+
+.x--wrapper
+  .x--sidebar
+  .x--sidebar-menu
+  .x--item
+  .x--sub-menu
+  a:not(last-child) {
+  border-bottom: 1px solid #ff7100;
+  text-decoration: none;
+}
+
+.x--wrapper .x--sidebar .x--sidebar-menu .x--item .x--sub-menu i {
+  padding-right: 20px;
+  font-size: 10px;
+}
+
+.x--wrapper .x--sidebar .x--sidebar-menu .x--item:target .x--sub-menu {
+  max-height: 500px;
+}
+/*  */
+
+.x--wrapper.x--collapse .x--main-container {
+  width: (100% - 250px);
+  margin-left: 250px;
+  padding: 0;
+}
+.x--wrapper .x--main-container {
+  width: calc(100% - 70px);
+  margin-left: 70px;
+  margin-top: 70px;
+  transition: 1s;
+}
+.x--main-container {
+  animation: transitionIn 0.75s;
+  z-index : 0;
+}
+@keyframes transitionIn {
+  from {
+    opacity: 0;
+    transform: rotateX(-10deg);
+  }
+  to {
+    opacity: 1;
+    transform: rotateX(0);
+  }
+}
+
+.x--wrapper .x--main-container .x--card {
+  background: #fbf3ff;
+  padding: 15px;
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+.loader {
+  border: 16px solid #f3f3f3; /* Light grey */
+  border-top: 16px solid #3498db; /* Blue */
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
